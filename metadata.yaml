@@ -1,0 +1,29 @@
+_repo: Folk-tales-from-Tibet-b-With-illustrations-by-a-Tibetan-artist-and-some-verses-from-Tibetan-l__75000
+_version: 0.0.1
+creator:
+  author:
+    agent_name: O'Connor, W. F.
+    gutenberg_agent_id: '57766'
+    url: http://www.gutenberg.org/2009/agents/57766
+description: ''
+gutenberg_issued: '2024-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75000'
+language: en
+pgterms:marc904: https://archive.org/details/folktalesfromtib00oconiala/
+pgterms:marc905: 20200415081425oconnor
+pgterms:marc906: '1906'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bHurst and Blackett, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Folk tales from Tibet : $b With illustrations by a Tibetan artist and some
+  verses from Tibetan love-songs'
+url: http://www.gutenberg.org/ebooks/75000
