@@ -1,11 +1,16 @@
 _repo: Folk-tales-from-Tibet-b-With-illustrations-by-a-Tibetan-artist-and-some-verses-from-Tibetan-l__75000
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: O'Connor, W. F.
     gutenberg_agent_id: '57766'
     url: http://www.gutenberg.org/2009/agents/57766
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75000#Folk-tales-from-Tibet-b-With-illustrations-by-a-Tibetan-artist-and-some-verses-from-Tibetan-l_
 gutenberg_issued: '2024-12-30'
 gutenberg_type: Text
 identifiers:
